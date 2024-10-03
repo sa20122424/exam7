@@ -1,0 +1,171 @@
+*{
+    list-style: none;
+    box-sizing: border-box;
+text-decoration: none;
+font-family: "Robot";
+}
+
+.conteiner{
+    width: 1400px;
+    padding: 10px;
+    margin: 0 auto;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+}
+.p-logo{
+    font-size: 24px;
+}
+.p-logo2{
+   color: grey;
+}
+.magaz{
+    width: 150px;
+    background-color:  #FE5F1E;
+    padding: 23px;
+    border: none;
+    border-radius: 30px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+
+}
+.box1{
+    width: 1px;
+    height: 20px;
+    background-color: white;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: none;
+}
+.btn{
+    background-color: azure;
+    border: none;
+    width: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.btn:hover{
+    transition: 0.25s ease ;
+
+    background-color: black;
+    color: white;
+    border: none;
+    width: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.btn1{
+    background-color: azure;
+    border: none;
+    width: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.btn1:hover{
+    transition: 0.25s ease ;
+
+    background-color: black;
+    color: white;
+    border: none;
+    width: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.btn2{
+    background-color: azure;
+    border: none;
+    width: 130px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.btn2:hover{
+    transition: 0.25s ease ;
+
+    background-color: black;
+    color: white;
+    border: none;
+    width: 130px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.btn3{
+    background-color: azure;
+    border: none;
+    width:80px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.btn3:hover{
+    transition: 0.25s ease ;
+
+    background-color: black;
+    color: white;
+    border: none;
+    width: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.btn4{
+    background-color: azure;
+    border: none;
+    width: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.btn4:hover{
+    transition: 0.25s ease ;
+
+    background-color: black;
+    color: white;
+    border: none;
+    width: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.btn5{
+    background-color: azure;
+    border: none;
+    width: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.btn5:hover{
+    transition: 0.25s ease ;
+
+    background-color: black;
+    color: white;
+    border: none;
+    width: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.btn6{
+    background-color: azure;
+    border: none;
+    width: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.btn6:hover{
+    transition: 0.25s ease ;
+
+    background-color: black;
+    color: white;
+    border: none;
+    width: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
